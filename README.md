@@ -25,8 +25,6 @@
 - GPU
     - NVIDIA GeForce RTX 3080 Ti
     - CUDA Version: 12.2
-- Python 3.11 이상 요구해서 다음 이미지 사용
-    - python/3.11
 
 #### notion: https://closed-august-fab.notion.site/YOLO-v9_DeepSORT-docker-compose-13676d3e01dc80debb48f7bd589f4e45?pvs=74
 수정 중..
